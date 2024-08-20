@@ -1,2 +1,1 @@
-# alx-react
-alx-react
+react lib front end intro
